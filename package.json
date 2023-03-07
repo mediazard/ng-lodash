@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/rockabox/ng-lodash.git"
+    "url": "git://github.com/mediazard/ng-lodash.git"
   },
   "keywords": [
     "nglodash",
@@ -20,9 +20,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rockabox/ng-lodash/issues"
+    "url": "https://github.com/mediazard/ng-lodash/issues"
   },
-  "homepage": "https://github.com/rockabox/ng-lodash",
+  "homepage": "https://github.com/mediazard/ng-lodash",
   "devDependencies": {
     "grunt": "~1.0.1",
     "grunt-bower-task": "~0.4.0",
